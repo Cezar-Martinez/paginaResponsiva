@@ -1,0 +1,54 @@
+body{
+    background-image: url(../busca.js);
+
+}
+
+.amarelo{
+    background-color: yellow;
+}
+
+.verde{
+    background-color: green;
+
+}
+
+.azul{
+    background-color: blue;
+}
+
+.vermelho{
+    background-color: red;
+}
+
+/*criando contexto de estilo nativo*/
+
+h1{
+    font-size: 18px;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+/*criando um estilo de classe*/
+
+.cab_especial{
+    font-size: 16px;
+    font-weight: bolder;
+    color: green;
+
+}
+
+.formatacao_campos{
+    background-color: aliceblue;
+    font-size: 12px;
+}
+
+.campo_nome{
+    width: 150px;
+    background-color: aliceblue;
+}
+
+.campo_email{
+    width: 300px;
+    background-color: aliceblue;
+}
